@@ -16,3 +16,5 @@ In-depth interview preparation for **Selenium WebDriver with Java** (functionali
 | 10 | [Scenario & rapid-fire questions](docs/10-scenario-questions.md) |
 
 Suggested path: 01 -> 03 -> 04 -> 02 -> 05 -> 06 -> 07 -> 08 -> 09 -> 10 (then re-read 04 and 06; they are the most frequently asked).
+
+Hands-on: see [demo-framework](demo-framework/README.md) - a runnable Java/TestNG/POM sample framework.
